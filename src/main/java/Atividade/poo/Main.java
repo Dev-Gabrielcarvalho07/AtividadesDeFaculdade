@@ -8,6 +8,13 @@ package Atividade.poo;
  *
  * @author gabri
  */
-class commit {
+public class Main {
+    public static void main (String[]args){
+        Produto produto = new Produto("limpol",22 );
+        produto.exibirInfo();
+        produto.setPreco(3.55);
+        System.out.println("Preco do produto:"+ produto.getPreco());
+    }
+    
     
 }
