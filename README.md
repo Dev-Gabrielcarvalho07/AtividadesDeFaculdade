@@ -83,4 +83,4 @@ Este repositório está em **constante atualização**. Novas atividades e proje
 
 ---
 
-<p align="center">Feito com 💙 durante a graduação</p>
+
