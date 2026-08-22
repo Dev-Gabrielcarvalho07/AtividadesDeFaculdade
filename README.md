@@ -23,8 +23,16 @@ AtividadesDeFaculdade/
         └── java/
             ├── Atividade/
             │   └── poo/               # Atividades de Programação Orientada a Objetos
-            │       ├── Main.java      # Classe principal com exemplos de Get e Set
-            │       └── Produto.java   # Classe Produto com encapsulamento
+            │       ├── Forma/                 # Herança e polimorfismo (formas geométricas)
+            │       ├── Veiculo/               # Herança (veículos)
+            │       ├── Animal/                # Polimorfismo (sons de animais)
+            │       ├── POO.empresa/           # Herança (funcionários)
+            │       ├── Atividades.GetSet/     # Encapsulamento (getters e setters)
+            │       ├── Atividades.ArrayList/  # Coleções e polimorfismo
+            │       ├── Atividades.construtor/ # Sobrecarga de construtores
+            │       ├── Atividades/            # Herança e polimorfismo
+            │       ├── Main.java              # Classe principal com exemplos de Get e Set
+            │       └── Produto.java           # Classe Produto com encapsulamento
             ├── ExerciciosInterfaceGrafica/
             │   └── CalcNotas/         # Calculadora de Notas com Interface Gráfica
             │       └── model/
@@ -39,7 +47,9 @@ AtividadesDeFaculdade/
 Exercícios práticos com os principais conceitos de POO em Java:
 - **Encapsulamento** — uso de modificadores de acesso, getters e setters
 - **Classes e Objetos** — modelagem de entidades do mundo real
-- **Herança e Polimorfismo** — em desenvolvimento
+- **Herança e Polimorfismo** — reescrita de métodos, `super` e classes abstratas
+- **Construtores** — sobrecarga e encadeamento de construtores (`this`)
+- **Coleções (ArrayList e arrays)** — armazenamento e iteração de objetos
 
 ### 🖥️ Exercícios de Interface Gráfica
 Projetos com foco em desenvolvimento de interfaces visuais em Java:
@@ -82,5 +92,3 @@ Este repositório está em **constante atualização**. Novas atividades e proje
 - Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
 
 ---
-
-
