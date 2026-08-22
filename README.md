@@ -55,8 +55,7 @@ Exercícios práticos com os principais conceitos de POO em Java:
 Projetos com foco em desenvolvimento de interfaces visuais em Java:
 - **CalcNotas** — aplicação para cálculo e gerenciamento de notas de alunos
 
-### 🏗️ Arquitetura de Software
-Material e exercícios relacionados à disciplina de Arquitetura de Software.
+
 
 ---
 
